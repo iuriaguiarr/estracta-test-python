@@ -1,0 +1,9 @@
+# Arquivos gerados
+__pycache__/
+.vscode/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de log
+*.log
